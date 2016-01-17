@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Snake_SXF", "main\main.vcxproj", "{C5A00537-376C-4911-BEBA-D2ED73C94D16}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Snake_顺畅版", "Snake_顺畅版\Snake_顺畅版.vcxproj", "{5965D620-D92A-4F96-BDFD-F538FF0387B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5A00537-376C-4911-BEBA-D2ED73C94D16}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C5A00537-376C-4911-BEBA-D2ED73C94D16}.Debug|Win32.Build.0 = Debug|Win32
+		{C5A00537-376C-4911-BEBA-D2ED73C94D16}.Release|Win32.ActiveCfg = Release|Win32
+		{C5A00537-376C-4911-BEBA-D2ED73C94D16}.Release|Win32.Build.0 = Release|Win32
+		{5965D620-D92A-4F96-BDFD-F538FF0387B1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5965D620-D92A-4F96-BDFD-F538FF0387B1}.Debug|Win32.Build.0 = Debug|Win32
+		{5965D620-D92A-4F96-BDFD-F538FF0387B1}.Release|Win32.ActiveCfg = Release|Win32
+		{5965D620-D92A-4F96-BDFD-F538FF0387B1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
